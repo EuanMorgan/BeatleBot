@@ -5327,6 +5327,135 @@ Dream sweet dreams for you.
 Good night good night everybody
 Evberybody everywhere
 Good night.
+If you're listening to this song
+You may think the chords are going wrong
+But they're not
+I just wrote it like that
+When you listen late at night
+You may feel the words are not quite right
+But they are
+I just wrote them myself
+And it doesn't really matter what chords I play
+What words I say or time of day it is
+As it's only a northern song
+It doesn't really matter what clothes I wear
+Or how I fare or if my hair is brown
+When it's only a northern song
+If you think the harmony
+Is a little off and out of key
+Then you're right
+Cause i sing it myself
+Remember boy that your forefather's died
+Lost in millions for a country's pride
+But they never mention the trenches of Belgium
+When they stopped fighting and they were one
+A spirit stronger than war was at work that night
+December 1914 cold, clear and bright
+Countries' borders were right out of sight
+When they joined together and decided not to fight
+All together now
+All together now
+All together now, in no man's land
+The same old story again
+All those tears shed in vain
+Nothing learned and nothing gained
+Only hope remains
+All together now
+All together now
+All together now
+In no man's land
+The boys had their say they said no
+Stop the slaughter let's go home, let's go, let's go
+Sheepdog
+Standing in the rain
+Bullfrog
+Doing it again
+Some kind of happiness is measured out in miles
+What makes you think you're something special when you smile?
+Child-like
+No one understands
+Jack knife
+In your sweaty hands
+Some kind of innocence is measured out in years
+You don't know what it's like to listen to your fears
+You can talk to me
+You can talk to me
+You can talk to me
+If you're lonely, you can talk to me
+Big man (yeah)
+Walking in the park
+Wigwam
+Frightened of the dark
+Some kind of solitude is measured out in you
+You think you know me, but you haven't got a clue
+You can talk to me
+You can talk to me
+You can talk to me
+If you're lonely, you can talk to me
+Wahoo woof! Woof!
+Hey bulldog! Hey bulldog!
+Hey bulldog! Hey bulldog!
+Hey man, what's that boy?
+Woof!
+What do you say?
+I said, "Woof!"
+You know anymore?
+Wooaah ha-ha-ha!
+You've got it, that's it, you had it!
+That's it, man, woo!
+That's it! You've got it!
+Don't look at me man, I only have ten children
+Ah ho! Ha ha ha ha ha ha!
+Quiet boy, quiet!
+Okay, quiet!
+Hey bulldog!
+Hey bulldog!
+To Jorma
+It's all too much
+It's all too much
+When I look into your eyes, your love is there for me
+And the more I go inside, the more there is to see
+It's all too much for me to take
+The love that's shining all around you
+Everywhere, it's what you make
+For us to take, it's all too much
+Floating down the stream of time, of life to life with me
+Makes no difference where you are or where you'd like to be
+It's all too much for me to take
+The love that's shining all around here
+All the world's a birthday cake
+So take a piece but not too much
+Set me on a silver sun, for I know that I'm free
+Show me that I'm everywhere, and get me home for tea
+It's all to much for me to see
+A love that's shining all around here
+The more I am, the less I know
+And what I do is all too much
+It's all too much for me to take
+The love that's shining all around you
+Everywhere, it's what you make
+For us to take, it's all too much
+It's too much (ah)
+It's too much
+With your long blond hair and your eyes of blue
+With your long blond hair and your eyes of blue
+You're too much, ah
+We all get too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much, too much, too much
+Too much
+Too much
+Too much, too much, too much, too much, too much
+Too much, too much, too much, too much, too much
+Too much, too much, too much, too much, too much
+Too much, too much, too much, too much, too much
+Too much, too much
 Don't let me down
 Don't let me down
 Don't let me down
