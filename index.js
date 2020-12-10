@@ -1,14 +1,29 @@
 const Twitter = require("twitter");
 require("dotenv").config();
 
-var client = new Twitter({
-  consumer_key: process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
-});
-
-lyrics = `When I crossed that room
+lyrics = `Well, she was just seventeen
+You know what I mean
+And the way she looked
+Was way beyond compare
+So how could I dance with another
+Ooh, when I saw her standing there?
+Well, she looked at me
+And I, I could see
+That before too long
+I'd fall in love with her
+She wouldn't dance with another
+Ooh, when I saw her standing there
+Well, my heart went "boom"
+When I crossed that room
+And I held her hand in mine
+Oh we danced through the night
+And we held each other tight
+And before too long
+I fell in love with her
+Now I'll never dance with another
+Ooh, since I saw her standing there
+Well, my heart went, "Boom"
+When I crossed that room
 And I held her hand in mine
 Oh, we danced through the night
 And we held each other tight
@@ -6276,18 +6291,28 @@ Oooooo
 Free...
 `;
 
-lyrics = lyrics.split("\n");
+let client = new Twitter({
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+});
 
+lyrics = lyrics.split("\n");
+//pointless
+let length = lyrics.length;
 let x = 0;
 setInterval(() => {
-  client
-    .post("statuses/update", { status: lyrics[x] })
-    .then(function (tweet) {
-      console.log(tweet);
-    })
-    .catch(function (error) {
-      x--;
-      throw error;
-    });
-  x++;
+  try {
+    let tweet = lyrics[x];
+    console.log(tweet);
+    client
+      .post("statuses/update", {
+        status: tweet + " \n\n (Line #" + (x + 1) + " of " + length + ")",
+      })
+      .then(() => {
+        x++;
+      })
+      .catch((err) => {});
+  } catch {}
 }, 300000);
